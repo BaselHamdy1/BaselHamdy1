@@ -1,16 +1,33 @@
-## Hi there 👋
+👨‍💻 About Me
 
-<!--
-**BaselHamdy1/BaselHamdy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Basel Hamdy, a Communication & Computer Engineering student at Mansoura University with a strong interest in Data Science.
+I’m a graduate of the Digital Egypt Pioneers Initiative (DEPI) and an active member of IEEE Mansoura Student Branch and IEEE Mansoura Computer Society Chapter, where I work in Data Science–focused teams and technical initiatives.
+I’m focused on building a solid foundation in data analysis and machine learning through continuous learning and practical projects.
 
-Here are some ideas to get you started:
+🛠️ Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming
+
+Python
+
+SQL
+
+Data Analysis
+
+Data Cleaning & Preprocessing
+
+Exploratory Data Analysis (EDA)
+
+Data Visualization
+
+Libraries & Tools
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Scikit-learn
