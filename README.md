@@ -22,13 +22,5 @@ I’m focused on building a solid foundation in data analysis and machine learni
 - NumPy  
 - Matplotlib  
 - Seaborn  
-- Scikit-learn  
-Pandas
 
-NumPy
 
-Matplotlib
-
-Seaborn
-
-Scikit-learn
